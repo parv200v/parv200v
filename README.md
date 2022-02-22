@@ -13,9 +13,8 @@
 ## Contact me⭕️
 
 <!-- png icons from https://iconscout.com/ -->
-  
-<a href="https://telegram.dog/lifefru" class="padded"><img align="left" alt="lifefru" width="28px" src="./res/telegram.png" /></a> 
-<a href="https://instagram.com/parv200v" class="padded"><img align="left" alt="xditya" width="28px" src="./res/instagram.png" /></a>
+ <a href="https://telegram.dog/parv200v" class="padded"><img align="left" alt="parv200v" width="28px" src="./res/telegram.png" /></a> 
+<a href="https://instagram.com/parv200v" class="padded"><img align="left" alt="parv200v" width="28px" src="./res/instagram.png" /></a>
  
 </br>
 
