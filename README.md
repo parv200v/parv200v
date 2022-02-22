@@ -10,12 +10,13 @@
 <a href="https://redis.io" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a>
 
 ---
-## Contact me⭕️
+ ## 🔗 Connect with me
 
 <!-- png icons from https://iconscout.com/ -->
- <a href="https://telegram.dog/parv200v" class="padded"><img align="left" alt="parv200v" width="28px" src="./res/telegram.png" /></a> 
-<a href="https://instagram.com/parv200v" class="padded"><img align="left" alt="parv200v" width="28px" src="./res/instagram.png" /></a>
- 
+<a href="https://xditya.me" class="padded"><img align="left" alt="https://xditya.me" width="28px" src="./res/website.png" /></a> 
+<a href="https://youtube.com/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/youtube.png" /></a> 
+<a href="https://telegram.dog/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/telegram.png" /></a> 
+<a href="https://twitter.com/its_xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/twitter.png" /></a> 
 </br>
 
 ---
